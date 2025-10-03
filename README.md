@@ -37,3 +37,13 @@ db.createUser({
  Python + MongoDB CRUD (AAC Dataset)
 
 R
+## Screenshots
+
+**Connection established**
+
+![Connection](images/connection.png)
+
+**CRUD test**
+
+![CRUD Test](images/crud_test.png)
+
